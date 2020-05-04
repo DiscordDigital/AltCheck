@@ -9,7 +9,7 @@ To get this working you need to follow these steps:
 5. Make sure AltServer is installed
 6. You can close iTunes while this script is running
 7. Launch AltCheck_Start.bat to start monitoring. (Right click, Run as Administrator)
-8. (optional) Put AltCheck_Start.bat into an AutoStart folder or task scheduler.
+8. (optional) Put AltCheck_Start.bat into an AutoStart folder or task scheduler
 
 ## Windows Firewall
 For best results you may want to disable your Windows Firewall.\
