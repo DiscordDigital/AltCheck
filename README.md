@@ -1,3 +1,9 @@
+## This repository is outdated.
+I figured Windows Batch would be too unstable, so we wrote it again in PowerShell.\
+https://github.com/DiscordDigital/AltCheck-Reborn
+
+Please use the new repository because this one won't be maintained anymore.
+
 # AltCheck
 The first AltServer monitor that presses the service restart button for you. Sharing the same backend as AltServer.
 ## How to get it working (Important!)
