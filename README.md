@@ -37,4 +37,5 @@ You need to create two tasks, they differ from the arguments:
 - MonitorImobiledevice
 
 ## Required download links:
-Quamotion iMobileDevice for 64-bit: http://docs.quamotion.mobi/docs/imobiledevice/download/
+Quamotion iMobileDevice for 64-bit: ~~http://docs.quamotion.mobi/docs/imobiledevice/download/~~ \
+Alternative Link: https://web.archive.org/web/20190415225927if_/https://qmcdn.blob.core.windows.net/imobiledevice/imobiledevice-x64-1.2.1-r223.zip
